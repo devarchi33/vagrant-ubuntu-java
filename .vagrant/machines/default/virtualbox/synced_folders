@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/donghoon/vagrant/ubuntu14.x","disabled":false},"/vagrant/share_data":{"guestpath":"/vagrant/share_data","hostpath":"/Users/donghoon/vagrant/vagrant_share_data","disabled":false}}}
